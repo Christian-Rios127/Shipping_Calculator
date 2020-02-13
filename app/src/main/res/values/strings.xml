@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Shipping Calculator</string>
+    <string name="weight_of_package">Weight of the package</string>
+
+</resources>
